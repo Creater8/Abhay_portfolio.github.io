@@ -39,13 +39,13 @@ a {
     border-radius: 24px;
   }
 .main-content{
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 .container-fluid{
-    border:5px solid green;
+    /* border:5px solid green; */
 }
 .header{
-   border: 4px solid yellow;
+   /* border: 4px solid yellow; */
 }
 .head{
     background-color:  #36f5ff;
